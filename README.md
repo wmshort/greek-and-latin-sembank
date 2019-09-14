@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/AGLS-signum%maximum%insignitum-blue.svg)](https://shields.io/)
+
 # Ancient Greek and Latin Sembank
 Corpus of semantically annotated ancient Greek and Latin texts, using WordNet constructs.
 
