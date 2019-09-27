@@ -1,4 +1,4 @@
-![AGLS Logo](agls.png)
+![AGLS Logo](agls_logo.svg)
 # Ancient Greek and Latin Sembank
 Corpus of semantically annotated ancient Greek and Latin texts, using WordNet constructs.
 
